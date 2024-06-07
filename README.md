@@ -23,7 +23,7 @@ Feel free to start solving the puzzles and share your solutions here!
 
 1. **Clone the repository**: Clone this repository to your local machine.
    ```
-   git clone https://github.com/yourusername/reponame.git
+   git clone https://github.com/InclusiveTechCoalition/code-puzzles.git
    ```
 2. **Create a new branch**: Create a new branch for your solutions.
    ```
